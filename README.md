@@ -48,7 +48,7 @@ I work across mobile, desktop, and web — aiming for *clean architecture, offli
 
 <td align="center" width="200">
 <strong>☁️ DevOps & Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,firebase,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" /><br>
 <sub>CI/CD • Dockerization • GitOps • Firebase Integration</sub>
 </td>
 
