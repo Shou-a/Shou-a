@@ -30,10 +30,10 @@
 </td>
 </tr>
 <tr> -->
-<td align="center">
+<!-- <td align="center">
 <strong>☁️ DevOps</strong><br><br>
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git" />
-</td>
+</td> -->
 <td align="center">
 <strong>🔧 Tools</strong><br><br>
 <img src="https://skillicons.dev/icons?i=linux,firebase,vscode,github" />
