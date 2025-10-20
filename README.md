@@ -20,23 +20,23 @@
 <strong>📱 Mobile</strong><br><br>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </td>
-<!-- <td align="center" width="200">
+<td align="center" width="200">
 <strong>⚡ Backend</strong><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
 </td>
 <td align="center" width="200">
 <strong>🗄️ Database</strong><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </td>
 </tr>
-<tr> -->
-<!-- <td align="center">
+<tr>
+<td align="center">
 <strong>☁️ DevOps</strong><br><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git" />
-</td> -->
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</td>
 <td align="center">
 <strong>🔧 Tools</strong><br><br>
-<img src="https://skillicons.dev/icons?i=linux,firebase,vscode,github" />
+<img src="https://skillicons.dev/icons?i=firebase,vscode" />
 </td>
 <td align="center">
 <strong>🚀 Focus</strong><br><br>
@@ -47,4 +47,17 @@
 </tr>
 </table>
 
+
 ---
+
+### 🌱 Currently Exploring
+AI Integration in Mobile Apps • ESP32 Smart Systems • Advanced Flutter Architectures
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shou-a&show_icons=true&theme=radical" alt="Shoua's GitHub Stats"/>
+</p>
+
+<p align="center">💬 Let's connect and build something meaningful together!</p>
+
