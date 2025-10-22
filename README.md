@@ -44,12 +44,6 @@ I work across **mobile, desktop, and web** — aiming for *clean architecture, o
 </td>
 </tr>
 </table>
-
----
-
-
-<img src="https://github.com/DawitAklilu/DawitAklilu/assets/74038190/463b2c36-f2c3-48e4-8a0a-2b37f6da7bfa" width="100%" height="3">
-
 </div>
 
 
