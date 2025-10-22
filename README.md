@@ -171,7 +171,7 @@ I work across **mobile, desktop, and web** — aiming for *clean architecture, o
 
 <!-- Advanced Flutter Architecture -->
 <td align="center" width="250" style="border:none;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU0ZjExZWMyMzQ0YjcxN2Y4YzUwZGY3NzM4NDk2ZTI3YWUwMmVjYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="90"><br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRmNjk2YTg5dXU0am1mcG1ocTE2YjRvN2NoNHgxbXl6eHk1ZHp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="90"><br>
 <strong>Advanced Flutter Architecture</strong><br>
 <sub>MVVM • GetX • GoRouter • Modularization</sub>
 </td>
@@ -198,3 +198,8 @@ or=00D4FF&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
 <p align="center">
 💬 *“Code isn’t just logic — it’s a way to turn thoughts into reality.”*  
 </p>
+
+
+<!-- VS Code
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2x5em5yMmU1eTVrcXZudDNudmpwZXZldmJpZWEydWQyc3VlNml4MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif
+ -->
