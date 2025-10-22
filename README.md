@@ -106,43 +106,6 @@ I work across **mobile, desktop, and web** — aiming for *clean architecture, o
 </tr>
 </table>
 
-<!-- ---
-
-<div align="center">
-<h1>
-<i>🌱 Currently Exploring</i>
-</h1>
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q2ZWZkMzE5ODFjYmE4NjM1MTcxMDA2MzQ1OGY1ZjQzYTZkZTZkNyZjdD1n/0TtX2qqpxp3pIafzio/giphy.gif" width="80"><br>
-<strong>AI-Enhanced Mobile Features</strong><br>
-<sub>Voice Commands • Image Recognition • Smart Contexts</sub>
-</td>
-
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ0NDA4ZjY0NjlkY2I0ZjJhY2Q2OTVlY2NiNjA3Yzc3NmQzMzFjYyZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="80"><br>
-<strong>ESP32-S3 Smart Integrations</strong><br>
-<sub>IoT Sensors • LoRa Communication • Edge Intelligence</sub>
-</td>
-
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZhM2M3YWFiNjc2Mjk0OWJmMjNjNmZkOWQxODQ2NGJkN2YzYzI3NCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="80"><br>
-<strong>Advanced Flutter Architecture</strong><br>
-<sub>MVVM • GetX • GoRouter • Modularization</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
---- -->
 
 ---
 
@@ -188,7 +151,14 @@ I work across **mobile, desktop, and web** — aiming for *clean architecture, o
 ---
 
 
-or=00D4FF&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
+
+<!-- GitHub Stats -->
+<div align="center">
+<h1>
+📊 GitHub Stats
+</h1>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shou-a&show_icons=true&theme=tokyonight&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shou-a&theme=tokyonight&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="165" />
 </p>
 </div>
