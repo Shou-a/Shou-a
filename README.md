@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:shouaulqamar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/shoua-ul-qammar-4726041a7"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://shoua.dev"><img src="https://img.shields.io/badge/Website-shoua.dev-0cf?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
 
